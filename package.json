@@ -1,0 +1,16 @@
+{
+  "name": "test-flexio-flow",
+  "version": "1.0.0",
+  "description": "description test without dev dependencies",
+  "main": "index.js",
+  "repository": "git@github.com:flexiooss/flexio-flow.git",
+  "author": "Thomas Chatelain (https://github.com/TomAchT)",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "css-media-queries-loader": "https://github.com/flexiooss/css-media-queries-loader.git"
+  },
+  "dependencies": {
+    "css-media-queries-loader": "https://github.com/flexiooss/css-media-queries-loader.git",
+    "link-stylesheet-html-webpack-plugin": "https://github.com/flexiooss/link-stylesheet-html-webpack-plugin.git",
+  }
+}
