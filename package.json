@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "css-media-queries-loader": "https://github.com/flexiooss/css-media-queries-loader.git",
-    "link-stylesheet-html-webpack-plugin": "https://github.com/flexiooss/link-stylesheet-html-webpack-plugin.git",
+    "link-stylesheet-html-webpack-plugin": "https://github.com/flexiooss/link-stylesheet-html-webpack-plugin.git"
   }
 }
