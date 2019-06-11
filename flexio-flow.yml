@@ -1,4 +1,4 @@
 level: dev
 schemes: []
-topic: null
-version: 1.1.0
+topics: [35, 40]
+version: 0.0.0
