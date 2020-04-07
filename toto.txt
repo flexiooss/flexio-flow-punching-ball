@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 sqfdsdfqsf
 xcdvfgfdgfdsgdfsgfdsg
+=======
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+xcwvxcvxcwvxcwvwxcvcxwvwcxvc
+>>>>>>> master
